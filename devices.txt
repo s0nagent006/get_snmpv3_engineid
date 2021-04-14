@@ -1,4 +1,4 @@
 IP Address,Hostname
-192.168.5.125,centos7.local
-192.168.5.124,abc.com
-192.168.155.130,xyz.com
+192.168.1.1,centos7.local
+192.168.2.2,abc.com
+192.168.3.3,xyz.com
